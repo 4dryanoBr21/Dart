@@ -50,13 +50,38 @@ void main() {
 }
 
 var str = "Ola, mundo!";
-double numero_int = 10.1;
+int numero_int = 10.1;
 double numero_dacimal = 9.5;
 */
 
+/*
 void main() {
+  ano = ano + 1;
   print(ano);
 }
 
-var ano = DateTime.now().year;
-var test = ano + 1;
+final ano = DateTime.now().year;
+*/
+
+/*
+void main() {
+  print(desconto);
+}
+
+const taxa = 0.1;
+double produto = 34;
+
+var desconto = taxa * produto;
+*/
+
+/*
+void main() {
+  print(nome);
+  print(nota);
+  print(PI);
+}
+
+const nome = "Ferdinando";
+var nota = 8;
+final PI = 9;
+*/
